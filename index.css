@@ -130,11 +130,48 @@ nav a{
     top: 180px;
     padding:10px  15px;
  }
- .ar{
+ /* .ar{
     left:10px;
     top: 20px;
  }
- .ak{
+ .ak{ */
 
- }
  
+ footer h6 {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 1rem;
+  }
+  
+  footer a {
+    text-decoration: none;
+  }
+  
+  /* footer p {
+    font-size: 0.875rem;
+  } */
+  
+  footer .btn-outline-light {
+    border: 1px solid #fff;
+    margin-top: 1rem;
+  }
+  
+  footer .fa {
+    font-size: 1.25rem;
+  }
+  
+  footer .fa:hover {
+    color: #fafafa;
+  }
+  #support{
+    font-size: 45px;
+    padding-left: 200px;
+  }
+  .footer1{
+    background-color: white;
+    width: 100%;
+    height:auto;
+  }
+  .list{
+    padding-left: 800px;
+  }
