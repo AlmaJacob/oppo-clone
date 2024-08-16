@@ -175,3 +175,22 @@ nav a{
   .list{
     padding-left: 800px;
   }
+  .offers{
+    display: flex;
+}
+.card{
+    margin-right: 4px;
+}
+.offers{
+    display: flex;
+}
+.card-titile{
+    font-size: 20px
+}
+.card-text{
+    font-size: 15px;
+}
+h3{
+    margin-top: 40px;
+}
+  
